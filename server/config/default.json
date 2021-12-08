@@ -1,0 +1,5 @@
+{
+  "serverPort": 5000,
+  "dbUrl": "mongodb+srv://sergy:asd123@claster0.fjpex.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "secretKey": "mySecret-key"
+}
